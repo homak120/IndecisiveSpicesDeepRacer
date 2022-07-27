@@ -1,5 +1,7 @@
 # IndecisiveSpicesDeepRacer
 
+Some quick plotting functions. For AWS DeepRacer Evaluations CSVs.
+
 Need:
 * python 3
 * pip
