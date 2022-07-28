@@ -13,5 +13,6 @@ To load virtual environment
 To install
 * `pipenv install`
 
-To run
-* `python plot.py`
+To run (can change name of data file in each program)
+* `python plotPath.py`
+* `python plotReward.py`
