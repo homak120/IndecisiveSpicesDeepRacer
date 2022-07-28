@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #change me to data csv filename. Uses evaluation data not training data.
-version='v8'
+version='v12'
 
 data = pd.read_csv(f"data/{version}.csv", index_col=1)
 
