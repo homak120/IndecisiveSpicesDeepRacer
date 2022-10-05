@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 matplotlib = "*"
+numpy = "*"
+mpl-point-clicker = "*"
 
 [dev-packages]
 
